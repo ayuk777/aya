@@ -5,9 +5,6 @@ body {
     height: 100vh;
     margin: 0;
     background-color: #f9e3e3;
-    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0%200%2020%2020'><path d='M10%202 C8%202 7%204 7%204 C7%204 5%204 5%206 C5%208 8%208 10%206 C12%208 15%208 15%206 C15%204 13%204 13%204 C13%204 12%202 10%202 Z' fill='%23d32f2f'/><rect x='9.2' y='6' width='1.6' height='8' fill='%2300702a' /></svg>");
-    background-repeat: repeat;
-    background-size: 100px;
     font-family: 'Arial', sans-serif;
 }
 
